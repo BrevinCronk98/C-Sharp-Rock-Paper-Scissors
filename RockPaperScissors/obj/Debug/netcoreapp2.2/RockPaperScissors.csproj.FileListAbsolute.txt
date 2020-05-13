@@ -7,3 +7,14 @@ C:\Users\cronk\desktop\C-Sharp-RPS\RockPaperScissors\bin\Debug\netcoreapp2.2\Roc
 C:\Users\cronk\desktop\C-Sharp-RPS\RockPaperScissors\bin\Debug\netcoreapp2.2\RockPaperScissors.pdb
 C:\Users\cronk\desktop\C-Sharp-RPS\RockPaperScissors\obj\Debug\netcoreapp2.2\RockPaperScissors.dll
 C:\Users\cronk\desktop\C-Sharp-RPS\RockPaperScissors\obj\Debug\netcoreapp2.2\RockPaperScissors.pdb
+C:\Users\Steven\Desktop\epi\c#\c-rockpaperscissor\RockPaperScissors\bin\Debug\netcoreapp2.2\RockPaperScissors.deps.json
+C:\Users\Steven\Desktop\epi\c#\c-rockpaperscissor\RockPaperScissors\bin\Debug\netcoreapp2.2\RockPaperScissors.dll
+C:\Users\Steven\Desktop\epi\c#\c-rockpaperscissor\RockPaperScissors\bin\Debug\netcoreapp2.2\RockPaperScissors.pdb
+C:\Users\Steven\Desktop\epi\c#\c-rockpaperscissor\RockPaperScissors\obj\Debug\netcoreapp2.2\RockPaperScissors.csprojAssemblyReference.cache
+C:\Users\Steven\Desktop\epi\c#\c-rockpaperscissor\RockPaperScissors\obj\Debug\netcoreapp2.2\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\epi\c#\c-rockpaperscissor\RockPaperScissors\obj\Debug\netcoreapp2.2\RockPaperScissors.AssemblyInfoInputs.cache
+C:\Users\Steven\Desktop\epi\c#\c-rockpaperscissor\RockPaperScissors\obj\Debug\netcoreapp2.2\RockPaperScissors.AssemblyInfo.cs
+C:\Users\Steven\Desktop\epi\c#\c-rockpaperscissor\RockPaperScissors\obj\Debug\netcoreapp2.2\RockPaperScissors.dll
+C:\Users\Steven\Desktop\epi\c#\c-rockpaperscissor\RockPaperScissors\obj\Debug\netcoreapp2.2\RockPaperScissors.pdb
+C:\Users\Steven\Desktop\epi\c#\c-rockpaperscissor\RockPaperScissors\bin\Debug\netcoreapp2.2\RockPaperScissors.runtimeconfig.json
+C:\Users\Steven\Desktop\epi\c#\c-rockpaperscissor\RockPaperScissors\bin\Debug\netcoreapp2.2\RockPaperScissors.runtimeconfig.dev.json
