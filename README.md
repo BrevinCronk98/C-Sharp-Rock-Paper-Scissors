@@ -31,6 +31,9 @@ If you have any suggestions or questions please  message us on github
 ## Technologies Used
 
 C#
+UnitX Testing
+.Net Core
+Visual Studio Code
 
 
 ### License
