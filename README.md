@@ -1,6 +1,6 @@
- # __Rock Paper Scissors
+ # __Rock Paper Scissors_
 
-#### _Practice with constuctor and prototype _
+#### _Practice with constuctor and prototype_
 
 #### By _StevenL and Brevin Cronk - May 13, 2020_
 
