@@ -1,4 +1,4 @@
- # __Rock Paper Scissors_
+ # _Rock Paper Scissors_
 
 #### _Practice with constuctor and prototype_
 
@@ -6,7 +6,7 @@
 
 ## Description
 
-### _An exercise for using constructor and prototype.When a user will click on any specific place,details will show up _
+### _An exercise for using constructor and prototype.When a user will click on any specific place,details will show up_
 
 ## Setup/Installation Requirements
 
