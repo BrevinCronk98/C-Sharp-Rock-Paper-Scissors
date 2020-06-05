@@ -12,7 +12,6 @@
 
 * Clone this repository.
 * dotnet restore -> dotnet build -> dotnet run
-* Boom
 
 
 
@@ -23,8 +22,7 @@
 
 
 ## Known Bugs
-
-No
+There have been no known bugs discovered.
 
 ## Support and contact details
 
